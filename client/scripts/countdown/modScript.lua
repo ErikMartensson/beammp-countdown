@@ -1,0 +1,2 @@
+load('countdown')
+registerCoreModule('countdown')
